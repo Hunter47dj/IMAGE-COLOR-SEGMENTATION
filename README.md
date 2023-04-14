@@ -4,7 +4,7 @@
  1.OpenCV
  2.Matplotlib
  3.Numpy
-# OUTPUT 
+# DOMINANT COLOURS  
 ## At K=3  
 ![IMAGE3](https://user-images.githubusercontent.com/107131075/231965584-75c8893a-017a-4285-b682-98be2e17c762.png)
 ![COLORS3](https://user-images.githubusercontent.com/107131075/231965606-d89e46b3-2f9b-4825-b4b3-52633a1d0ec2.png)
